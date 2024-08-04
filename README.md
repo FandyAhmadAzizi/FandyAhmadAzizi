@@ -16,7 +16,7 @@
 <a href="https://fb.com/fandiahmadazizi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fandiahmadazizi" height="30" width="40" /></a>
 <a href="https://instagram.com/_fndyahmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_fndyahmd" height="30" width="40" /></a>
 <a href="https://medium.com/@fandyahmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fandyahmd" height="30" width="40" /></a>
-<a href="https://discord.gg/396212710355894273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="396212710355894273" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/396212710355894273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="396212710355894273" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
