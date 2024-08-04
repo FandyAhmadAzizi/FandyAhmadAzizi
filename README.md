@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm FandyAhmD</h1>
-<h3 align="center">I'm from Indonesia</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ep78nmq7237pcb5sdsqxuk2co&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=ep78nmq7237pcb5sdsqxuk2co&redirect=true)
 
